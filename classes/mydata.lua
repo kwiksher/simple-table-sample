@@ -1,5 +1,5 @@
 local myData = {}
-local messagesDB = require("messagesDB")
+local messagesDB = require("classes.messagesDB")
 
 myData.platform = "iOS"
 if "simulator" == system.getInfo("environment") and "iP" ~= string.sub( system.getInfo("model"), 1, 2 ) then

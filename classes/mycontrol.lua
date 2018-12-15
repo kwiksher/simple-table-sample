@@ -2,7 +2,7 @@ local M = {}
 
 local scene  = nil
 local myData = nil
-local messagesDB = require("messagesDB")
+local messagesDB = require("classes.messagesDB")
 
 function M.init(_scene, _myData)
     scene                 = _scene
