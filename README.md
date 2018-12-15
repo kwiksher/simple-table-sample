@@ -4,3 +4,4 @@ the classes for the table widget and the sqlite codes are refactored out of Coro
 
 * https://github.com/coronalabs-samples/CoronaWeather
 
+<img src="screenshot.png">
